@@ -1,4 +1,4 @@
-<div style="text-align:center;"><img src="images/LOGO.png" style="width:50%;" /></div>
+<div style="text-align:center;"><img src="images/LOGO.png" width="50%" /></div>
 
 *“You can’t be what you can’t see <br>
 In each of us, another woman or a young girl might see a reflection of herself;<br>
