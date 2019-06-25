@@ -1,10 +1,10 @@
-<div style="text-align:center"><img src="images/LOGO.png" /></div>
+<div style="text-align:center; width: 50%; height: auto;"><img src="images/LOGO.png" /></div>
 
-* “You can’t be what you can’t see
+*“You can’t be what you can’t see
 In each of us, another woman or a young girl might see a reflection of herself;
 Of her worth, of her boundless potential.
 The youth need to see their greatness reflected in our eyes.
-Go forth. Let them know we are real.” * ~ Homecoming
+Go forth. Let them know we are real.”* ~ Homecoming
 
 
 <br><br>
