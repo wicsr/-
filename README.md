@@ -1,10 +1,10 @@
 <div style="text-align:center;"><img src="images/LOGO.png" style="width:50%;" /></div>
 
-***“You can’t be what you can’t see
-In each of us, another woman or a young girl might see a reflection of herself;
-Of her worth, of her boundless potential.
-The youth need to see their greatness reflected in our eyes.
-Go forth. Let them know we are real.”*** ~ **HΘMΣCΘMING**
+*“You can’t be what you can’t see <br>
+In each of us, another woman or a young girl might see a reflection of herself;<br>
+Of her worth, of her boundless potential.<br>
+The youth need to see their greatness reflected in our eyes.<br>
+Go forth. Let them know we are real.”* ~ **HΘMΣCΘMING**
 
 
 <br><br>
