@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="" /></div>
+<div style="text-align:center"><img src="images/LOGO.png" /></div>
 
 * “You can’t be what you can’t see
 In each of us, another woman or a young girl might see a reflection of herself;
@@ -12,8 +12,10 @@ Go forth. Let them know we are real.” * ~ Homecoming
 ## Proposal
 We aim to create a community which empowers and encourages the growth and participation of women in the field of computational science research. This community is for minorities within the field of computational science research which includes but not limited to: computer science, machine learning, data science/mining, robotics, AI and any other related field. To foster this we propose launching the community with a full day event in which we will:
 <br>
+
 1. **Highlight various research areas:** We will invite various female speakers doing exciting research in Computational Science. We will also highlight funding opportunities and application processes(e.g. What is expected/tips in the NRF/CSIR funding application ), and discuss both national and international conferences to showcase their work at (Conference information is not always intuitive). We will have an interactive session where various potential supervisors and research based companies will get an opportunity to express their research interests and elaborate more on what their fields entail in a one to many kind of speed dating fashion. 
 <br>
+
 2. **Highlight labs or various research groups at different universities:** We would like to publicize potential supervisors and their respective labs/research groups. Who they are, what they focus on, if their presentations or talks are open to students in their universities outside their labs, what they fund as a lab/research group and the equipment/resources they have as a lab/research group. This is so that women can have the freedom of absolute choice on what is globally available and not have the limit of supervisors/labs/research groups within their social circles.
 <br>
 
